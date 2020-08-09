@@ -1,0 +1,13 @@
+.drop-down{
+    width:200px;
+    height:50px;
+    border: none;
+    outline: none;
+    background-color:rgb(28 115 201);
+    color:whitesmoke;   
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 1.2rem;
+}   
